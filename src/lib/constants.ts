@@ -1,0 +1,12 @@
+export const CURRENT = '2026-05-31';
+export const PREV    = '2026-04-30';
+export const BOP_DT  = '2026-01-31';
+export const QTD = ['2026-05-31'];
+export const YTD = ['2026-02-28','2026-03-31','2026-04-30','2026-05-31'];
+export const TTM = ['2025-06-30','2025-07-31','2025-08-31','2025-09-30','2025-10-31','2025-11-30','2025-12-31','2026-01-31','2026-02-28','2026-03-31','2026-04-30','2026-05-31'];
+export const TTM_LBL = ['Jun-25','Jul-25','Aug-25','Sep-25','Oct-25','Nov-25','Dec-25','Jan-26','Feb-26','Mar-26','Apr-26','May-26'];
+export const YTD_LBL = ['Feb-26','Mar-26','Apr-26','May-26'];
+export const BRAND = { lime: '#E9FF5F', teal: '#80C7D1', black: '#1a1a1a' };
+export const C_ACT = 'rgba(128,199,209,0.8)';
+export const C_BUD = 'rgba(233,255,95,0.85)';
+export const DEPTS = ['COGS: Infrastructure','COGS: Services','Engineering','Product','Customer Success','Sales','Marketing','G&A'] as const;
